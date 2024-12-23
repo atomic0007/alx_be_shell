@@ -1,7 +1,10 @@
 # alx_be_python
 Shell Permissions
+
 This repository contains various shell scripts for managing file permissions and user operations on a Linux system.
+
 Files
+
 0-iam_betty
 This script switches the current user to the user betty.
 
