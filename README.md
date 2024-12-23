@@ -26,8 +26,11 @@ This script sets the mode of the file hello to -rwxr-x-wx.
 Usage
 Clone the repository:
 git clone git@github.com:atomic0007/alx_be_shell.git
+
 cd alx_be_shell/shell_permissions
+
 Make the scripts executable
+
 chmod +x 0-iam_betty 1-who_am_i 4-empty 5-execute 6-multiple_permissions 9-John_Doe
 
 Run The scripts as needed
